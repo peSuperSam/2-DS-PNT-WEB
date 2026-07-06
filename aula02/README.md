@@ -1,6 +1,6 @@
 # Aula 02 - Imagens, Formatação e Listas Ordenadas
 
-▶️ **[Assistir vídeo da Aula 02](#)**
+▶️ **[Assistir vídeo da Aula 02](https://youtu.be/lp0IFTOdkms)**
 
 Avançamos adicionando conteúdo multimídia e melhorando a semântica e a formatação do texto.
 

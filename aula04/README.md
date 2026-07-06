@@ -1,6 +1,6 @@
 # Aula 04 - Introdução ao CSS (Estilização)
 
-▶️ **[Assistir vídeo da Aula 04](#)**
+▶️ **[Assistir vídeo da Aula 04](https://youtu.be/Lx2AjGnqLrQ)**
 
 Nesta aula, daremos vida às páginas HTML, introduzindo cores, fontes e formatação visual separando a estrutura (HTML) do estilo (CSS).
 

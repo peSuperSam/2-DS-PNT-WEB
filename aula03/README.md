@@ -1,6 +1,6 @@
 # Aula 03 - Formulários HTML
 
-▶️ **[Assistir vídeo da Aula 03](#)**
+▶️ **[Assistir vídeo da Aula 03](https://youtu.be/RMUz5P2Cgk0)**
 
 A aula 03 uniu todo o conhecimento anterior e introduziu a criação de um formulário de contato para captura de dados dos usuários.
 

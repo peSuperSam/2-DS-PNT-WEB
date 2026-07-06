@@ -1,6 +1,6 @@
 # Aula 01 - Estrutura Básica e Primeiras Tags
 
-▶️ **[Assistir vídeo da Aula 01](#)**
+▶️ **[Assistir vídeo da Aula 01](https://youtu.be/nh-doM9-ozs)**
 
 Nesta aula, criamos o esqueleto de uma página HTML e aprendemos as tags essenciais para renderização de texto e links.
 
