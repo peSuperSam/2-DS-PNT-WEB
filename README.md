@@ -1,4 +1,4 @@
-# Curso de PNT WEB (Desenvolvimento de Sistemas)
+# Disciplina de PNT WEB (Desenvolvimento de Sistemas)
 
 Bem-vindo ao repositório do curso de Programação em Novas Tecnologias (WEB). Este projeto é modular e construído passo a passo. 
 
